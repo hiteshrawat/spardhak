@@ -15,5 +15,66 @@
         "language" : "English",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1050_One_Word_Substitutions.json"
     }
-    
+    ,
+    { 
+        "id" : "3",
+        "title" : "१००० सामान्य ज्ञान प्रश्न हिन्दी",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/%E0%A5%A7%E0%A5%A6%E0%A5%A6%E0%A5%A6_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF_%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
+    }
+     ,
+    { 
+        "id" : "4",
+        "title" : "३२५ मराठी सामान्य ज्ञान",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Marathi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/%E0%A5%A9%E0%A5%A8%E0%A5%AB_%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF_%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8.json"
+    }
+       ,
+    { 
+        "id" : "5",
+        "title" : "५०० सामान्य ज्ञान प्रश्न हिन्दी में",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/%E0%A5%AB%E0%A5%A6%E0%A5%A6_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF_%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80_%E0%A4%AE%E0%A5%87%E0%A4%82.json"
+    }
+      ,
+    { 
+        "id" : "6",
+        "title" : "५३०_सामान्य_ज्ञान_प्रश्न_हिन्दी",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/%E0%A5%AB%E0%A5%A9%E0%A5%A6_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF_%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
+    }
+    ,
+    { 
+        "id" : "7",
+        "title" : "८८८_मराठी_सामान्य_ज्ञान_प्रश्नसंचदी",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/%E0%A5%AE%E0%A5%AE%E0%A5%AE_%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF_%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%9A.json"
+    }
+       ,
+    { 
+        "id" : "8",
+        "title" : "1500_Constitution_Questions",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1500_Constitution_Questions.json"
+    }    ,
+    { 
+        "id" : "9",
+        "title" : "1000_one_word_substitution_with_hindi_meaning",
+        "category": "Mixed",
+        "total_questions" : 1050,
+        "language" : "Hindi",
+        "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1000_one_word_substitution_with_hindi_meaning.json"
+    }
 ]
