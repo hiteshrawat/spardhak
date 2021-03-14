@@ -88,7 +88,7 @@
     { 
         "id" : "11",
         "title" : "1237_Modern_Indian_History_हिन्दी",
-        "category": "Economy",
+        "category": "History",
         "total_questions" : 1050,
         "language" : "Hindi",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1237_Modern_Indian_History_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
@@ -96,7 +96,7 @@
     { 
         "id" : "12",
         "title" : "1137_Indian_Polity_and_Constitution_हिन्दी",
-        "category": "Economy",
+        "category": "Polity",
         "total_questions" : 1050,
         "language" : "Hindi",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1137_Indian_Polity_and_Constitution_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
@@ -105,7 +105,7 @@
     { 
         "id" : "13",
         "title" : "1429_Indian_and_World_Geography_हिन्दी",
-        "category": "Economy",
+        "category": "Geography",
         "total_questions" : 1050,
         "language" : "Hindi",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1429_Indian_and_World_Geography_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
@@ -113,7 +113,7 @@
     { 
         "id" : "14",
         "title" : "1471_Ancient_And_Medieval_हिन्दी",
-        "category": "Economy",
+        "category": "History",
         "total_questions" : 1050,
         "language" : "Hindi",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1471_Ancient_And_Medieval_%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
@@ -122,7 +122,7 @@
     { 
         "id" : "15",
         "title" : "1600_General_Science__हिन्दी",
-        "category": "Economy",
+        "category": "Science",
         "total_questions" : 1050,
         "language" : "Hindi",
         "url" : "https://raw.githubusercontent.com/hiteshrawat/spardhak/master/oneliners/1600_General_Science__%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80.json"
